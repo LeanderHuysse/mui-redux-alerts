@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThadeuLuz/mui-redux-alerts.git"
+    "url": "git+https://github.com/LeanderHuysse/mui-redux-alerts.git"
   },
   "keywords": [
     "Material-UI",
@@ -26,10 +26,6 @@
   ],
   "author": "Thadeu Luz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ThadeuLuz/mui-redux-alerts/issues"
-  },
-  "homepage": "https://github.com/ThadeuLuz/mui-redux-alerts#readme",
   "dependencies": {},
   "peerDependencies": {
     "material-ui": "*",
